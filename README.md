@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaggwe-marvin
 - 👀 I’m interested in Mobile, web development
-- 🌱 I’m currently  developing react-native apps
+- 🌱 I’m currently  developing react, react-native apps
 - 💞️ I’m looking to collaborate or freelance
 - 📫 How to reach me +256788320104
 
