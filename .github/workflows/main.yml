@@ -13,3 +13,4 @@ jobs:
           bun-version: 'latest'
       - run: bun install -g bats
       - run: bats -v
+      - run: bun -v
