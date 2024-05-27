@@ -5,11 +5,7 @@ jobs:
   check-bats-version:
     runs-on: ubuntu-latest
     steps:
-      # This step checks out a copy of your repository.
-      - name: My first step - check out repository
-        uses: actions/checkout@v4
-      # this step uses runs node actions and install bun script
-      - name: install node and bun 
+      - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
       - uses: oven-sh/setup-bun@v1
         with:
