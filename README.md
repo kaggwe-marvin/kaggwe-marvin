@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kaggwe-marvin
-- 👀 I’m interested in Mobile, web development
-- 🌱 I’m currently  developing react, react-native, .net apps
-- 💞️ I’m looking to collaborate or freelance
+- 👀 Hire me
 - tel: +256788320104
 - email: kaggwemarvin@gmail.com
 
