@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @kaggwe-marvin
-- 👀 Hire me
-- tel: +256788320104
-- email: kaggwemarvin@gmail.com
+# 👋 Hi, I’m Marvin Kaggwe
 
-  # Project Trade-offs
+- 👀 I'm open to job opportunities.
+- 📞 You can reach me at: +256788320104
+- ✉️ Email: kaggwemarvin@gmail.com
 
-## Choose Your Priorities
+---
+
+## Project Trade-offs
+
+### Choose Your Priorities
 
 Select two out of three options:
 
@@ -29,9 +32,3 @@ Select two out of three options:
 - [ ] This option focuses on quick delivery and high quality.
 - [x] It may come with higher costs.
 </details>
-
-
-<!---
-kaggwe-marvin/kaggwe-marvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
