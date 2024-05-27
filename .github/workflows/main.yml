@@ -1,23 +1,37 @@
 name: learn-github-actions
 run-name: ${{ github.actor }} is learning GitHub Actions
+
+# Trigger the workflow on push events
 on: [push]
+
 jobs:
   check-bats-version:
     runs-on: ubuntu-latest
+    
     steps:
-      # This step checks out a copy of your repository.
-      - name: My first step - check out repository
+      # Step to check out the repository's code
+      - name: Check out repository
         uses: actions/checkout@v4
-      # This step references the directory that contains the action.
+      
+      # Step to use the local hello-world-action
       - name: Use local hello-world-action
-      - uses: ./.github/actions/hello-world-action
-      # this step uses runs node actions and install bun script
-      - name: install node and bun 
-      - uses: actions/setup-node@v4
-      - uses: oven-sh/setup-bun@v1
+        uses: ./.github/actions/hello-world-action
+      
+      # Step to set up Node.js version 20
+      - name: Install Node
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
+      
+      # Step to set up Bun with the latest version
+      - name: Install Bun
+        uses: oven-sh/setup-bun@v1
+        with:
           bun-version: 'latest'
-      - run: bun install -g bats
-      - run: bats -v
-      - run: bun -v
+      
+      # Step to install Bats globally and print versions of Bats and Bun
+      - name: Install and check Bats
+        run: |
+          bun install -g bats
+          bats -v
+          bun -v
