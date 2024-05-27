@@ -5,7 +5,14 @@ jobs:
   check-bats-version:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      # This step checks out a copy of your repository.
+      - name: My first step - check out repository
+        uses: actions/checkout@v4
+      # This step references the directory that contains the action.
+      - name: Use local hello-world-action
+      - uses: ./.github/actions/hello-world-action
+      # this step uses runs node actions and install bun script
+      - name: install node and bun 
       - uses: actions/setup-node@v4
       - uses: oven-sh/setup-bun@v1
         with:
