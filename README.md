@@ -6,11 +6,7 @@
 
 ---
 
-## Project Trade-offs
-
-### Choose Your Priorities
-
-Select two out of three options:
+## Pick your Poison
 
 <details>
 <summary>Cheap & Fast</summary>
