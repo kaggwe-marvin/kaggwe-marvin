@@ -45,7 +45,7 @@
 ### Find me!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kaggwe-marvin)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&labelColor=25D366&logo=WhatsApp&logoColor=white)](https://wa.me/your-+256788320104)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&labelColor=25D366&logo=WhatsApp&logoColor=white)](https://wa.me/+256788320104)
 [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-username)
 [![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat&labelColor=FFFC00&logo=Snapchat&logoColor=black)](https://www.snapchat.com/add/your-username)
 [![Phone](https://img.shields.io/badge/-Phone-007AFF?style=flat&labelColor=007AFF&logo=Phone&logoColor=white)](tel:+256788320104)
