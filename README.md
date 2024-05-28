@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Marvin Kaggwe
+# 👋 Hi, I’m Marvin Kaggwe Victor
 
 - 👀 I'm open to job opportunities.
 - 📞 You can reach me at: +256788320104
