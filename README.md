@@ -1,16 +1,24 @@
-### I'm kaggwe-marvin 👋
-
-Actually working on my toolkit [devdata.tools](http://devdata.tools) in free time!
-
-##### I recently deployed an new [action on Github Marketplace](https://github.com/marketplace/actions/create-json)
-
-### My last articles on Medium:
-[How to setup React-Native + Microsoft CodePush with Sentry Platform](https://medium.com/geekculture/how-to-setup-react-native-microsoft-codepush-with-sentry-platform-df1b717d6a7)
-
-[How I Create a Whatsapp REST API and CLI to Automate My Messages With Golang (Part 1)](https://medium.com/geekculture/how-i-create-a-whatsapp-rest-api-and-cli-to-automate-my-messages-with-golang-part-1-3dd5b805462)
-
-[How I create my first action and deployed to Github Actions Marketplace](https://medium.com/swlh/how-i-create-my-first-action-and-deployed-to-github-actions-marketplace-8ca519be1ef7)
-
+####  👋 Hi, I’m Marvin Kaggwe Victor
+- 👀 I'm open to job opportunities.
+- 📞 You can reach me at: +256788320104
+- ✉️ Email: kaggwemarvin@gmail.com
+---
+##### Pick your Poison
+<details>
+<summary>Cheap & Fast</summary>
+- [x] This option prioritizes cost-effectiveness and quick delivery.
+- [ ] Quality might be compromised.
+</details>
+<details>
+<summary>Cheap & Good</summary>
+- [x] This option emphasizes cost-effectiveness and high quality.
+- [ ] Project might take longer to complete.
+</details>
+<details>
+<summary>Fast & Good</summary>
+- [ ] This option focuses on quick delivery and high quality.
+- [x] It may come with higher costs.
+</details>
 ### Languages and Tools :computer:
  
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/kaggwe-marvin)](https://github.com/kaggwe-marvin) 
@@ -22,15 +30,15 @@ Actually working on my toolkit [devdata.tools](http://devdata.tools) in free tim
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/kaggwe-marvin)](https://github.com/kaggwe-marvin) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/kaggwe-marvin)](https://github.com/kaggwe-marvin)
 [![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go&link=https://github.com/kaggwe-marvin)](https://github.com/kaggwe-marvin) 
-![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=XCode&logoColor=1575F9)
 ### Find me!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kaggwe-marvin)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaggwe-marvin/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/kaggwe-marvin/)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:jose.daniell@outlook.com)
-[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@kaggwe-marvin)
-
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&labelColor=25D366&logo=WhatsApp&logoColor=white)](https://wa.me/your-+256788320104)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&labelColor=25D366&logo=WhatsApp&logoColor=white)](https://wa.me/+256788320104)
+[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-username)
+[![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat&labelColor=FFFC00&logo=Snapchat&logoColor=black)](https://www.snapchat.com/add/your-username)
+[![Phone](https://img.shields.io/badge/-Phone-007AFF?style=flat&labelColor=007AFF&logo=Phone&logoColor=white)](tel:+256788320104)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kaggwemarvin@gmail.com)
 ![GitHub Snake Light](https://github.com/kaggwe-marvin/kaggwe-marvin/blob/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/kaggwe-marvin/kaggwe-marvin/blob/output/github-snake-dark.svg#gh-dark-mode-only)
