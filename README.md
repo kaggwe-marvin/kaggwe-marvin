@@ -1,9 +1,6 @@
 #### 👋 Hi, I’m Marvin Kaggwe Victor
 - 👀 I'm open to job opportunities.
-- 📞 You can reach me at: +256 788 320 104
-- ✉️ Email: kaggwemarvin@gmail.com
 ---
-
 ##### Pick your Poison
 
 <details>
