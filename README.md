@@ -12,7 +12,7 @@ I'm a final-year **Bachelor of Business Computing** student at Makerere Universi
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Voucher Manager](https://github.com/kaggwe-marvin/Voucher-Manager) | Batch-creates MikroTik hotspot vouchers and prints them as PDF. Shipped as a Windows installer. | Python, Tkinter, RouterOS API, GitHub Actions |
+| [Voucher Manager](https://github.com/kaggwe-marvin/Voucher-Manager) | Batch-creates MikroTik hotspot vouchers and prints them as PDF. Shipped as a Windows installer. [Download it](https://kaggwe-marvin.github.io/Personal-Resume/downloads/). | Python, Tkinter, RouterOS API, GitHub Actions |
 | [Custom ERP](https://github.com/kaggwe-marvin/custom-ERP) | Modular ERP with a double-entry ledger, role-based access and audit logs. | Django, DRF, mypy, pytest |
 | [Inventory Tracker](https://github.com/kaggwe-marvin/Django-Inventory-tracker) | Stock tracking with low-stock alerts, CSV reports and a rate-limited REST API. | Django, DRF, pytest |
 | [Student Clearance System](https://github.com/kaggwe-marvin/student-clearance-system) | Role-based clearance workflow for students, staff and admins. | TypeScript, Hono, Drizzle ORM, HTMX |
@@ -27,4 +27,4 @@ I'm a final-year **Bachelor of Business Computing** student at Makerere Universi
 
 ### Get in touch
 
-📧 kaggwemarvin@gmail.com · 🌐 [Online resume](https://kaggwe-marvin.github.io/Personal-Resume/)
+📧 kaggwemarvin@gmail.com · 🌐 [Online resume](https://kaggwe-marvin.github.io/Personal-Resume/) · ⬇️ [Software downloads](https://kaggwe-marvin.github.io/Personal-Resume/downloads/)
