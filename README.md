@@ -11,14 +11,6 @@ I build **web, mobile and desktop** apps, and I care about clean, reliable relea
 
 ---
 
-### What I'm up to
-
-- Open to **mid-level developer, business systems and IT roles**, in Kampala or remote
-- Delivered a **booking and mobile money payment app** for a paying client
-- **Five years** of hands-on IT support: hardware, Windows and networks
-
----
-
 ### Tech stack
 
 **Backend**  
@@ -35,13 +27,6 @@ I build **web, mobile and desktop** apps, and I care about clean, reliable relea
 
 ---
 
-### Featured work
-
-- **Booking and mobile money payment app**: built for a paying client. *One line on what it does, your role and the stack.* · [Link or screenshot](#)
-- **Project name**: *One line on what it does and the stack.* · [Repo](#)
-- **Project name**: *One line on what it does and the stack.* · [Repo](#)
-
----
 
 ### Certifications
 
