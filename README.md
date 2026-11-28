@@ -10,6 +10,12 @@ I'm a final-year **Bachelor of Business Computing** student at Makerere Universi
 
 ---
 
+### Certifications
+
+- **GitHub Foundations**, GitHub / Microsoft, November 2026 · [Verify credential](https://learn.microsoft.com/api/credentials/share/en-us/kaggwemarvinvictor-9683/189CABAC59C3AEA7?sharingId=6C3B5A3ACEDD9B9C)
+
+---
+
 ### Get in touch
 
  kaggwemarvin@gmail.com ·  [Online resume](https://kaggwe-marvin.github.io/Personal-Resume/) ·  [Software downloads](https://kaggwe-marvin.github.io/Personal-Resume/downloads/)
